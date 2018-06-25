@@ -1,2 +1,2 @@
 # Bayesian-Learning
-Assignments from Bayesian Learning course at Master in Big Data Analytics at Carlos III University of Madrid
+Assignments in Bayesian Learning from Master in Big Data Analytics at Carlos III University of Madrid
